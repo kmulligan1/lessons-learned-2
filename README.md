@@ -12,3 +12,5 @@ Once you've created a feature branch, create a file with a similar name (e.g. qu
 Once everyone has created a branch and made at least one commit containing their file, @mention the rest of your team and ask them for feedback. Make sure to provide a quick piece of substantive feedback on everyone elses pull request - doing so will improve your grade. Based on the feedback you receive on your PR, make any improvements and @mention everyone asking for a :+1: to ship. Once you get at least two, merge in the PR.
 
 Once all the PR's have been closed, submit a PR to this repo to let me know you're done. Feel free to @mention @peterbell or @chowdhury if any questions!
+
+:boom: 
