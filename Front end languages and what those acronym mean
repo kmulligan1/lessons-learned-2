@@ -12,6 +12,8 @@ CSS - Cascading Style Sheets:  Controls the presentation aspect of the site and 
 JS - JavaScript: Typically used as part of web browsers, whose implementations allow client-side 
 scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.
 It allows animation, user input, and validation.
+HTML, CSS, and JS are the very well known.  The diagram below provides a simple illustration of their connection:
+![Front End Venn Diagram](https://sp.yimg.com/ib/th?id=HN.608014159507882797&pid=15.1&P=0)
 AJAX - Asynchronous JavaScript and XML: A method of building interactive applications for the Web that process user requests immediately 
 is not a technolgy by itself but a group of technologies, including JS and CSS. One of the best example of AJAX product is Google Mail
-For an interesting article on front end development, please see [http://www.theguardian.com/help/insideguardian/2009/sep/28/blogpost](article).
+For an interesting article on front end development, please see [Guardian Article] (http://www.theguardian.com/help/insideguardian/2009/sep/28/blogpost)
