@@ -14,3 +14,4 @@ scripts to interact with the user, control the browser, communicate asynchronous
 It allows animation, user input, and validation.
 AJAX - Asynchronous JavaScript and XML: A method of building interactive applications for the Web that process user requests immediately 
 is not a technolgy by itself but a group of technologies, including JS and CSS. One of the best example of AJAX product is Google Mail
+For an interesting article on front end development, please see [http://www.theguardian.com/help/insideguardian/2009/sep/28/blogpost](article).
