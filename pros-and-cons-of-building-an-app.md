@@ -19,6 +19,6 @@ Less reach than mobile websites
 Apps and mobile websites are both good ways to create a mobile presence.  However, it is important to ascertain your organizations mobile needs before investing in an app.
 Here's an interesting article from forbes on why the mobile browser is dead. http://www.forbes.com/sites/ewanspence/2014/04/02/the-mobile-browser-is-dead-long-live-the-app/
 
-http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fbarnraisersllc.com%2F2013%2F08%2Fmobile-app-mobile-website-14-decision-makers%2F&ei=JzHqVM3_Ns60sATCwoCQCg&bvm=bv.86475890,d.cWc&psig=AFQjCNFRtGPp4-NRA9PmkT15HQL0QsRV4Q&ust=1424720549434454
+![app](http://barnraisersllc.com/wp-content/uploads/2013/08/app-vs-mobile-web.png)
 
 What are your thoughts @youngpark10 @mkalalufulwabo15 @Goldstjl @Kbierfeldt @tzhaosh and @kmulligan1?
