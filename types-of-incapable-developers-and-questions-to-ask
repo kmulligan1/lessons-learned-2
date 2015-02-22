@@ -1,0 +1,28 @@
+![Image of hiring_develope-119932_630x210r](http://www.simudyne.com/wp-content/uploads/2012/09/hiring_developer-119932_630x210.jpg)
+
+Hiring developers is harder than we imagine. There are many types of developers around. We are not only looking for people who are proficient in coding, rather, we want developers to have complexity. A great developer is able to go a lot further when facing a new business problem from merely programing.
+
+The developer community is quite lousy, with many types of incapable developers out there. :page_with_curl:
+Cowboy coders are good for simple outsources projects, but they lack the knowledge of version control, testing, and scalability. Cowboy coders are not able to keep control or understand the complexity of applications, thus not qualified for long-term projects. 
+Another type of programmers is slick salesman, who can talk about many wonderful things. However, they are not able to perform when put in front of the keyboard and usually outsourced the projects to low-cost developing centers such as India, China, and Eastern Europe. 
+The third type is **mercenary**, who are not passionate enough about programing, and only take the job because of the big bucks. 
+The slow and steady type of developers is less engaged in the developer community. Their competence is questionable, as they might not be kept up to date with the new development in the programing space. 
+The scientist type knows the technology inside and out, but is not very interested in the business and not buying into the vision.  
+The lone wolf type has great programing skills, but no communication capability with others. These people eventually will not work out in a fast-paced environment where constant collaboration between business people and developers is essential to the firm’s success.
+
+To ensure the prospective developer has the complexity to code and understand the business problem, there are several important questions to ask during the hiring process:
+ 
+1.What unit test framework do you use as a developer to make sure your software really works and why?
+Unit test is the test developers write to make sure they deliver technical-sound solutions. If developers do not write unit test, you probably want to stop work with them.
+
+2.What other unit test framework do you compare to and why did you pick X?
+A very small number of developers actually think of compare unit testing software. If they can communicate coherently the benefits of using X testing software over others, they are among the top 1% of programmers and should not be let go.
+
+3.What acceptance testing framework do you use and why?
+When developers make small changes to a small piece of the code, it may break the entire flow on the website/system. There is software available to automatically check the entire process after changes are made. A good developer should know it as it saves a lot of time in post-change checking.
+
+4.What version control system do you use and why?
+The version control system helps document changes and associated effects in the file. In case there are bugs, it is easy to go back to a last-known-good state and rework on the code. It also allows multiple people to work on the same file at the same time without worrying about changes that break the code.
+
+5.What framework do you use and why
+Although using frameworks is not always the right thing, it is great to leverage existing frameworks wrote by great developers to maximize efficiency on the project. If someone is always writing their frameworks or never use any of the frameworks, he is probably not a good developer. 
